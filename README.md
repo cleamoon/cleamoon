@@ -1,7 +1,7 @@
 <a href="https://github.com/cleamoon">
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=cleamoon&column=7&theme=onedark"/>
-    <img width="340px" src="https://github-readme-stats.vercel.app/api?username=cleamoon&theme=vue-dark&count_private=true&show_icons=true" />
+    <img src="https://metrics.lecoq.io/cleamoon?template=classic" />  
   </p>
 </a>
 
